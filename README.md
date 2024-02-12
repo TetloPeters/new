@@ -16,7 +16,7 @@
             <li><a href = "https://www.tutorialspoint.com/css">CSS Tutorial</a></li> 
             <li><a href = "https://www.tutorialspoint.com/javascript">
             JavaScript Tutorial</a></li> 
-   
+         </ul>
       </nav> 
    
       <article> 
