@@ -10,13 +10,13 @@
          <p>This page should be tried in safari, chrome or Mozila.</p> 
       </header> 
    
-  
+  <nav>
          <ul> 
             <li><a href = "https://www.tutorialspoint.com/html">HTML Tutorial</a></li> 
             <li><a href = "https://www.tutorialspoint.com/css">CSS Tutorial</a></li> 
             <li><a href = "https://www.tutorialspoint.com/javascript">
             JavaScript Tutorial</a></li> 
-      
+   
       </nav> 
    
       <article> 
