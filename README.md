@@ -1,7 +1,7 @@
    <html> 
-   <head> <
+   <head> 
       <meta charset="utf-8">
-     
+      <title>...</title> 
    </head> 
   
    <body> 
@@ -26,6 +26,7 @@
       </article> 
    
       <aside> 
+      {background-color: #eeee}
          <p>This is  aside part of the web page</p> 
       </aside> 
    
